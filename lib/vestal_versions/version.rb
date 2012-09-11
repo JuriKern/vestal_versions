@@ -49,7 +49,7 @@ module VestalVersions
       model = restore
       
       if model
-        model.save!
+        model.save(:validation => false)
         destroy
       end
       
