@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1b7a9c-869a-4fa1-8e04-c80a709efdba" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vestal_versions/version.rb" afterPath="$PROJECT_DIR$/lib/vestal_versions/version.rb" />
     </list>
     <ignored path="vestal_versions.iws" />
@@ -24,7 +25,7 @@
       <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/vestal_versions/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="34" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.46652266">
+            <state line="36" column="44" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.22151224">
               <folding />
             </state>
           </provider>
@@ -222,7 +223,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/vestal_versions/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="34" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.46652266">
+        <state line="36" column="44" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.22151224">
           <folding />
         </state>
       </provider>

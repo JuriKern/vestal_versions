@@ -45,11 +45,11 @@ module VestalVersions
       end
     end
 
-    def restore!(validation = true)
+    def restore!(validate = true)
       model = restore
       
       if model
-        model.save(:validation => validation)
+        model.save!(:validate => validate)
         destroy
       end
       
