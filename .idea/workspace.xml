@@ -24,7 +24,7 @@
       <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/vestal_versions/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="40" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.6565875">
+            <state line="51" column="34" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.46652266">
               <folding />
             </state>
           </provider>
@@ -222,7 +222,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/vestal_versions/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="40" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.6565875">
+        <state line="51" column="34" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.46652266">
           <folding />
         </state>
       </provider>
