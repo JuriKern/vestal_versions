@@ -10,7 +10,7 @@ module VestalVersions
     # Associate polymorphically with the parent record.
     belongs_to :versioned, :polymorphic => true
 
-    attr_accessible :modifications, :number, :tag
+    attr_accessible :modifications, :number, :tag, :user
 
     # ActiveRecord::Base#changes is an existing method, so before serializing the +changes+ column,
     # the existing +changes+ method is undefined. The overridden +changes+ method pertained to
